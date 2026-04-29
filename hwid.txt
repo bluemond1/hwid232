@@ -1,1 +1,2 @@
 383114906_Intel64 Family 6 Model 42 Stepping 7, GenuineIntel|2026-05-01
+649661425_Intel64 Family 6 Model 60 Stepping 3, GenuineIntel|2026-05-01
