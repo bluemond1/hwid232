@@ -3,3 +3,4 @@
 1308959455_AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD|2027-05-31
 1694074531_Intel64 Family 6 Model 151 Stepping 2, GenuineIntel|2027-06-25
 3558985336_AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD|2027-06-26
+1275289099_Intel64 Family 6 Model 183 Stepping 1, GenuineIntel|2027-06-28
