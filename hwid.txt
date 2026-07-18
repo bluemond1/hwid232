@@ -6,4 +6,4 @@
 1275289099_Intel64 Family 6 Model 183 Stepping 1, GenuineIntel|2027-06-29
 1881872384_Intel64 Family 6 Model 158 Stepping 10, GenuineIntel|2026-07-02
 780367378_Intel64 Family 6 Model 158 Stepping 13, GenuineIntel|2027-06-29
-2124088775_Intel64 Family 6 Model 60 Stepping 3, Genuinelntel|2027-07-18
+2124088775_Intel64 Family 6 Model 60 Stepping 3, GenuineIntel|2027-07-18
